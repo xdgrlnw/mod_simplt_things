@@ -1,0 +1,32 @@
+{
+  "text.hud.position": "X: %d Y: %d Z: %d | %d",
+  "text.hud.position.death": "Точка смерти: X: %d Y: %d Z: %d",
+  "text.hud.position.biome": "Биом: %d",
+
+  "text.facing.north": "Север",
+  "text.facing.north_east": "Северо - Восток",
+  "text.facing.east": "Восток",
+  "text.facing.south_east": "Юго - Восток",
+  "text.facing.south": "Юг",
+  "text.facing.south_west": "Юго - Запад",
+  "text.facing.west": "Запад",
+  "text.facing.north_west": "Северо - Запад",
+
+  "text.hud.daytime": "День: %d | Луна: %d | Время: %d",
+
+  "text.moon_phase.0": "\uD83C\uDF15",
+  "text.moon_phase.1": "\uD83C\uDF16",
+  "text.moon_phase.2": "\uD83C\uDF17",
+  "text.moon_phase.3": "\uD83C\uDF18",
+  "text.moon_phase.4": "\uD83C\uDF11",
+  "text.moon_phase.5": "\uD83C\uDF12",
+  "text.moon_phase.6": "\uD83C\uDF13",
+  "text.moon_phase.7": "\uD83C\uDF14",
+
+  "text.hud.light": "Свет [Блок: %d | Небо: %d]",
+
+  "key.category.simple_things": "Simple Things Мод",
+  "key.toggle.hud": "Simple HUD Переключатель",
+  "key.toggle.hud.on": "Simple HUD Включен",
+  "key.toggle.hud.off": "Simple HUD Выключен"
+}

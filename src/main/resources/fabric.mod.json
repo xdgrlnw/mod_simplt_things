@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "simple_things",
+  "version": "${version}",
+  "name": "Simple Things",
+  "description": "",
+  "authors": ["xdgrlnw"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.xdgrlnw.simple_things.initMain"
+    ],
+    "main": [
+      "me.xdgrlnw.simple_things.initMain"
+    ]
+  },
+  "mixins": [
+    "simple_things.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": ">=${minecraft_version}"
+  }
+}

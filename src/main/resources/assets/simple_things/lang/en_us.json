@@ -1,0 +1,32 @@
+{
+  "text.hud.position": "X: %d Y: %d Z: %d | %d",
+  "text.hud.position.death": "Death: [X: %d Y: %d Z: %d]",
+  "text.hud.position.biome": "Biome: %d",
+
+  "text.facing.north": "North",
+  "text.facing.north_east": "North - East",
+  "text.facing.east": "East",
+  "text.facing.south_east": "South - East",
+  "text.facing.south": "South",
+  "text.facing.south_west": "South - West",
+  "text.facing.west": "West",
+  "text.facing.north_west": "North - West",
+
+  "text.hud.daytime": "Day: %d | Moon: %d | Time: %d",
+
+  "text.moon_phase.0": "\uD83C\uDF15",
+  "text.moon_phase.1": "\uD83C\uDF16",
+  "text.moon_phase.2": "\uD83C\uDF17",
+  "text.moon_phase.3": "\uD83C\uDF18",
+  "text.moon_phase.4": "\uD83C\uDF11",
+  "text.moon_phase.5": "\uD83C\uDF12",
+  "text.moon_phase.6": "\uD83C\uDF13",
+  "text.moon_phase.7": "\uD83C\uDF14",
+
+  "text.hud.light": "Light [Block: %d | Sky: %d]",
+
+  "key.category.simple_things": "Simple Things Mod",
+  "key.toggle.hud": "Simple HUD Toggle",
+  "key.toggle.hud.on": "Simple HUD On",
+  "key.toggle.hud.off": "Simple HUD Off"
+}

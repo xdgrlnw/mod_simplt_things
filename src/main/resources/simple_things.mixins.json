@@ -1,0 +1,34 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.xdgrlnw.simple_things.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "common.DisableMovementCheck",
+    "common.GlobalRecipesUnlock",
+    "common.SimpleGlobalGamerules",
+    "common.exp.DisableXpBreeding",
+    "common.exp.DisableXpFishing",
+    "common.exp.DisableXpMining",
+    "common.exp.DisableXpSmelting",
+    "common.exp.DisableXpTrading",
+    "common.exp.EnableFullCostEnchanting"
+  ],
+  "client": [
+    "client.SimpleBetterChat",
+    "client.SimpleCustomBootScreenColor",
+    "client.SimpleCustomTitleBar",
+    "client.SimpleDisableAutoFullScreen",
+    "client.SimpleDisableExperimentalWarning",
+    "client.SimpleDisableToasts",
+    "client.SimpleGlobalOptions",
+    "client.SimpleGlobalServers",
+    "client.SimpleHudDurabilityTooltip",
+    "client.SimpleHudToolsOverlay",
+    "client.SimpleSoundDayLightDetector",
+    "client.SimpleSoundRepeater"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
